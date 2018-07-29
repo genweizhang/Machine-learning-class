@@ -1,0 +1,8 @@
+Name: single-factor-analyzer
+Version: 1.0.0
+Summary: Python implementation of factor analysis
+Home-page: http://github.com/genweizhang
+Author: Genwei Zhang
+Author-email: genweizhang@ou.edu
+Description: This is Python script for implementing single factor analysis with EM Reference: Hinton et al. 1997
+Platform: UNKNOWN
